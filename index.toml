@@ -185,11 +185,6 @@ hash = "1a906a173b2562d83bcab9ca0cc9b9dbce52bcca6c4d884641acc56e7a5a1dcb"
 metafile = true
 
 [[files]]
-file = "mods/enderscape.pw.toml"
-hash = "423eaece30e362832b3104ac9c1f0600dddc18f6cd22925eba460d119673d152"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "1b53a429030150df0ea9cebff9efffd7394c87ea5fe949008883ca19c1d6738a"
 metafile = true
@@ -340,11 +335,6 @@ hash = "f1cd76a58d9f5fee095f228496df31c97182b51214468ebcd4676fc937c69a0c"
 metafile = true
 
 [[files]]
-file = "mods/trimmed.pw.toml"
-hash = "41ca5ad92e7e42241ea4ca9c2f413d10df45e93656a5070c202b79a515483fd4"
-metafile = true
-
-[[files]]
 file = "mods/waystones.pw.toml"
 hash = "983aaa86083a54110aa66417a71eb2e36b7e8108897ff2a05e037d7b11fadc39"
 metafile = true
@@ -402,6 +392,7 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "1d2908ee5935d84c59a156e7e05d571609983e86b0fe43a170d6fb579c7ff0a1"
+preserve = true
 
 [[files]]
 file = "resourcepacks/Enderscape-zh_cn-NeoForge-1.21.1.zip"
