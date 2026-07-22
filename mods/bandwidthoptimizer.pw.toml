@@ -1,0 +1,13 @@
+name = "BandwidthOptimizer"
+filename = "BandwidthOptimizer-2.9.18.55-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "867895b31bd11c54f54e94f38a38da52029af105"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8312528
+project-id = 1507336

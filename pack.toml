@@ -1,0 +1,13 @@
+name = "SummerMod"
+author = "Nostal Yuu"
+version = "1.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "90392df4ee9519d6c40010f4920e97468874c22cb1ba0168556f46232d9c3ebc"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.242"
