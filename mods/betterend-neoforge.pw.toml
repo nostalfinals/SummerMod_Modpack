@@ -3,11 +3,11 @@ filename = "BetterEnd-21.0.26.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/IcERKldh/versions/BgNy6PHx/BetterEnd-21.0.26.jar"
 hash-format = "sha1"
 hash = "ccc8323e80c4c3482ce2278448b7be426c1af81f"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 8362510
-project-id = 1422294
+[update.modrinth]
+mod-id = "IcERKldh"
+version = "BgNy6PHx"
