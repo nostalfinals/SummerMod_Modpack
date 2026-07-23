@@ -340,6 +340,11 @@ hash = "f1cd76a58d9f5fee095f228496df31c97182b51214468ebcd4676fc937c69a0c"
 metafile = true
 
 [[files]]
+file = "mods/twilight-delight.pw.toml"
+hash = "9d6d8d31e50beb170bab2a20044771b5b3ac9c6c8f5f52a2356eece23ad1e4e3"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "983aaa86083a54110aa66417a71eb2e36b7e8108897ff2a05e037d7b11fadc39"
 metafile = true
