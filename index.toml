@@ -150,6 +150,11 @@ hash = "8ad6217c436e6410d7e44bea50b70bdd0d3fa015d56b1547d53e60c7ec01b817"
 metafile = true
 
 [[files]]
+file = "mods/burns-enchantment-extractor.pw.toml"
+hash = "a597046a03281d58bff27d7a65f8273b74a747a09b38d4bb5a856bb093015fc6"
+metafile = true
+
+[[files]]
 file = "mods/c2me.pw.toml"
 hash = "4e88c95d19c54d79e1bd59e606fde41f03bba9244eca0e22a14f87fd6cfafc93"
 metafile = true
