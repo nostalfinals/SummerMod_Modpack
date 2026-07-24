@@ -3,11 +3,11 @@ filename = "c2me-neoforge-mc1.21.1-0.4.0-alpha.0.115.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/COlSi5iR/versions/rfqEJITe/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.115.jar"
 hash-format = "sha1"
 hash = "6e48712460f460713980d25906f7c107ae8c338a"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "COlSi5iR"
-version = "rfqEJITe"
+[update.curseforge]
+file-id = 8436420
+project-id = 533097

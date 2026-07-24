@@ -3,11 +3,11 @@ filename = "worldweaver-21.0.23.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/R8uGDQpB/versions/Z69QKkOC/worldweaver-21.0.23.jar"
 hash-format = "sha1"
 hash = "8b44d4b6dd9a53dd433280ffc8fcb98826eb5703"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "R8uGDQpB"
-version = "Z69QKkOC"
+[update.curseforge]
+file-id = 8432684
+project-id = 1422284

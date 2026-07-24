@@ -3,11 +3,11 @@ filename = "L_Ender's Cataclysm 1.21.1-3.32.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/46KJle7n/versions/695vQRhD/L_Ender%27s%20Cataclysm%201.21.1-3.32.jar"
 hash-format = "sha1"
 hash = "f16c6bf69232ebdf85cc861450a8dd5def310e5b"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "46KJle7n"
-version = "695vQRhD"
+[update.curseforge]
+file-id = 8364209
+project-id = 551586

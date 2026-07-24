@@ -3,11 +3,11 @@ filename = "Burn's Enchantment Extractor 1.2 NeoForge-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/P0PHPdS8/versions/6433yhu8/Burn%27s%20Enchantment%20Extractor%201.2%20NeoForge-1.21.1.jar"
-hash-format = "sha512"
-hash = "d757ec7f6e259705150382e9f1ad9739a15f42bcb3b200e615d480ac8063091160301fb2a63cb012732318f8241949dc15dc02deb7f1cbb59986b56ea0f51165"
+hash-format = "sha1"
+hash = "bc4c53079d35e9885d42641d2b88e9c9de0253b4"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "P0PHPdS8"
-version = "6433yhu8"
+[update.curseforge]
+file-id = 7208026
+project-id = 1328269
