@@ -1,0 +1,13 @@
+name = "MmdSkin"
+filename = "mmdskin-neoforge-1.0.5-1.21.1-2-universal.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6eYjvXFw/versions/9GJPlQbi/mmdskin-neoforge-1.0.5-1.21.1-2-universal.jar"
+hash-format = "sha512"
+hash = "f1d33819ed2cfc551c63a74487e7f55af8c10ca3f53a51f95c6d782fa218279e0727caa931e6129ecccdd8e9c364251ea34f04c031102b67978e591c3c3cc3c6"
+
+[update]
+[update.modrinth]
+mod-id = "6eYjvXFw"
+version = "9GJPlQbi"

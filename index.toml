@@ -280,6 +280,11 @@ hash = "0040d7fd6c33995b6c42cf868bd6e97ad689650a923647ef3471528e8696e1df"
 metafile = true
 
 [[files]]
+file = "mods/mmdskin.pw.toml"
+hash = "f740521062716b8ffc50fda3e306d6069c4dfe6fc8e26068e125b08a1045b442"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "c733e1e14d75f0044bd2414e5c37ba17be82fdf8b0289f5fd2c97c60966e6d56"
 metafile = true
