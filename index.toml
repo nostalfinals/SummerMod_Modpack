@@ -205,6 +205,11 @@ hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
 metafile = true
 
 [[files]]
+file = "mods/forgematica.pw.toml"
+hash = "451c96f6fc12e0af29ddb579b69aa085420e638b23bbf24526997e9c7fb69dc7"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "65ac18556f91ebb4f303a39731e93e94ffa94ddc690b0fbf35346bdcb3b05919"
 metafile = true
@@ -277,6 +282,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "fb6171c8f7ff0d83513b3f75ee5d7a98659559c427d79fb69eb0219639af8a37"
+metafile = true
+
+[[files]]
+file = "mods/mafglib.pw.toml"
+hash = "2726c6991c3cc6ee3644725fd98759b6d8b2cfd96d0fcb7ad8e266924f741f52"
 metafile = true
 
 [[files]]
