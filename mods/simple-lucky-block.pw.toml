@@ -1,0 +1,13 @@
+name = "Simple Lucky Block"
+filename = "NEOFORGE_1.21.1_simpleluckyblock_1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VbKuf25K/versions/C4ZYOWID/NEOFORGE_1.21.1_simpleluckyblock_1.0.0.jar"
+hash-format = "sha512"
+hash = "8cd0767cddc679cc0e10fe79c50d220d65d4453619c193ffb3051e4b7664a55128a207ce771a8dfefb633f7921b0e32b78ae4dd8d4dfcf21aee1fabc6e36295a"
+
+[update]
+[update.modrinth]
+mod-id = "VbKuf25K"
+version = "C4ZYOWID"

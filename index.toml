@@ -305,6 +305,11 @@ hash = "a2656fd26db614529563a310b0f7ad4dd13c9280e7a3fa754379a82a79c47530"
 metafile = true
 
 [[files]]
+file = "mods/simple-lucky-block.pw.toml"
+hash = "c16e3b4a72c6fe0d82df9f6c0938e9fa5fc3e45e004c3bb7d98e3f5f83935278"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "342058593286ccdbf30f4c31d1c9c1faf03df002a62b411d8556ba355532fa01"
 metafile = true
